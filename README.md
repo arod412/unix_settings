@@ -1,2 +1,5 @@
 # unix_settings
-Personal unix settings
+
+This is my unix setup.
+
+Install: source install.sh

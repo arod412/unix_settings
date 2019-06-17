@@ -1,0 +1,13 @@
+filetype plugin on
+syntax enable       "Enables syntax highlighting
+colorscheme molokai "Sets the colorscheme
+set number      	"Enable line numbering
+set tabstop=4       "Number of visual spaces per TAB
+set softtabstop=4   "Number of space in tab when editing
+set expandtab       "Converts TAB to spaces
+set showcmd			"Show command in bottom bar
+set cursorline      "Highlights current line
+filetype indent on  "Prefer intending scheme of certain languages
+set showmatch       "Highlight matching braces, brackets, etc
+set incsearch       "Search as characters are entered
+set hlsearch        "Highlight search
