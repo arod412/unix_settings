@@ -2,4 +2,4 @@
 
 This is my unix setup.
 
-Install: source install.sh
+Install: ./install.sh
