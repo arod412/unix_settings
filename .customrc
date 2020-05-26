@@ -1,5 +1,5 @@
 # allows vim colors to work properly
-export TERM=xterm-256color
+# export TERM=xterm-256color
 
 # Uncomment below and fill in proxy info if needed for git, yum, apt-get, etc...
 #export http_proxy=
@@ -8,3 +8,11 @@ export TERM=xterm-256color
 # Command shortcuts
 alias vi=vim
 alias arduino_git="cd ~/Documents/Arduino/libraries/git_projects/"
+alias TMA='tmux attach-session -t'
+alias TMN='tmux new -s'
+alias TML='tmux ls'
+alias CDESKTOP='cd /mnt/c/Users/XSTRIX/Desktop/'
+alias CDOWNLOADS='cd /mnt/c/Users/XSTRIX/Downloads/'
+alias ONEDRIVE='cd /mnt/c/Users/XSTRIX/OneDrive'
+alias ONEDRIVEUF='cd "/mnt/c/Users/XSTRIX/OneDrive - University of Florida"'
+cd ~
